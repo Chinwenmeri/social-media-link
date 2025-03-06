@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/my%20work.png)
+![./src/assets/my work.png](./src/assets/mywork.png)
 
 ### Links
 - Live Site URL: [live site](https://social-media-link-swart.vercel.app/)
